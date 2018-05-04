@@ -1,0 +1,103 @@
+@CHARSET "ISO-8859-1";
+.loginWrapper {
+		 background: none repeat scroll 0 0 #0078ad;
+		 border:1px solid #ccc;
+		 border-radius:10px;
+		 margin:100px auto 0;
+		 /*padding:20px;*/
+		 padding:0 0 20px 0;
+		 width:500px;
+		 box-shadow: 0 0 10px #8F8F8F;
+         opacity: 0.95;}
+         
+/* login heading starts here */
+
+.loginHdng {
+		background:#fff;
+		font-size:24px;
+		margin-bottom:15px;
+		padding:10px;}
+		
+.loginForm {
+		margin:0 auto
+		color:#000;}
+.hdrWrapper1 {
+		margin:0 auto;}
+.header1{
+		width:300px;
+		margin:0 auto;
+		border-bottom: 1px solid #ccc;
+		background-color: #eee;
+		border-top-right-radius:6px;
+		border-top-left-radius:6px;}
+.hdrLft1 {
+    color:#016390;
+    font-size:30px;
+    text-align:center;
+    font-weight:bold;
+    padding:20px;
+		 }
+.hdrRgt1 {
+		float:right; /*width:360px;*/}
+
+        
+/* login heading ends here */
+
+/* rows starts here */
+.fisrtrow{
+	    margin-top:5px;}
+.row {
+		margin-bottom:3px;
+		margin-top:3px;
+		padding:3px 5px;}
+.rowLabel {
+		margin-bottom:-1px;
+		margin-top:3px;
+		padding:3px 5px;}	
+.rowLabe2 {
+		margin-bottom:-1px;
+		padding:3px 5px;}	
+.row input[type="text"] {
+		border:1px solid #666;
+		border-radius:5px;
+		height:25px;
+		line-height:1em;
+		width:98%;}
+.row input[type="password"]  {
+		border:1px solid #666;
+		border-radius:5px;
+		height:30px;
+		line-height:1em;
+		width:98%;}
+.row select  {
+	    border:1px solid #666;
+		border-radius:5px;
+		height:30px;
+		line-height:1em;
+		width:100%;}
+/* login rows ends here */
+
+/* login footer starts here */
+.footer1 {
+	    color:#000;
+		margin:20px auto 0;
+		/*padding:20px;*/
+		width:300px;
+		text-align: center;}
+.craetacdiv{
+		color:#fff;
+		padding-left:20px;
+		margin-top:20px;}
+.footerpad{
+		padding-left:10px;
+		color:#000;
+		padding-right:10px;}
+/* login footer ends here */
+
+.hr{
+		min-height: 1px;
+	    clear:both; width:100%;
+	    border-bottom:1px solid #d1d1d1;
+	    height:1px; padding-top:5px;
+	    margin-top:5px;
+	    margin-bottom:5px;}
